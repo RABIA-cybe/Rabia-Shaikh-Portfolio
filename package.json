@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tailwindcss -i ./css/input.css -o ./css/output.css --watch"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.4",
+    "aos": "^2.3.4",
+    "emailjs-com": "^3.2.0",
+    "lottie-web": "^5.12.2",
+    "tailwindcss": "^4.1.4"
+  }
+}
