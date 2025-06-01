@@ -230,6 +230,9 @@
   .z-60 {
     z-index: 60;
   }
+  .z-100 {
+    z-index: 100;
+  }
   .container {
     width: 100%;
     @media (width >= 40rem) {
@@ -328,6 +331,9 @@
   }
   .w-\[90\%\] {
     width: 90%;
+  }
+  .w-\[721px\] {
+    width: 721px;
   }
   .w-fit {
     width: fit-content;
