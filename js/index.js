@@ -229,7 +229,7 @@ window.addEventListener('load', function () {
       AOS.init();
 
     }, 500); // wait for preloader fade-out
-  }, 6000); // keep loader for 6 seconds minimum
+  }, 2000); // keep loader for 2 seconds minimum
 });
 
 
